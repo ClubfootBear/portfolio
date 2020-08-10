@@ -1,0 +1,1 @@
+web: gunicorn stp_helper.wsgi --log-file -
