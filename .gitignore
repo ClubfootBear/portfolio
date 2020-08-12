@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 Django-core - 1.ipynb
 Django-core - 2.ipynb
+venv/
+blog/__pycache__/
+stp_helper/__pycache__/
+blog/migrations/__pycache__/
