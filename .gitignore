@@ -5,3 +5,4 @@ venv/
 blog/__pycache__/
 stp_helper/__pycache__/
 blog/migrations/__pycache__/
+Wheel_problem.txt
